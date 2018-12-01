@@ -3,7 +3,7 @@ body {
 }
 
 p {
-  font-size: 72px;
+  font-size: 48px;
   font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   background: -webkit-linear-gradient(#CFD8DC, #BDBDBD);
   -webkit-background-clip: text;
