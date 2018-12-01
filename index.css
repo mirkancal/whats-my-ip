@@ -1,0 +1,16 @@
+body {
+  background-image: linear-gradient( 206.8deg,  rgba(73,168,255,1) 19.1%, rgba(0,48,249,1) 109.8% );
+}
+
+p {
+  font-size: 72px;
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  background: -webkit-linear-gradient(#FFEB3B, #FFC107);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
